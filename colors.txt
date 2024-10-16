@@ -1,0 +1,4 @@
+mom:blue:30
+mom:red:70
+dad:blue:40
+dad:yellow:60
